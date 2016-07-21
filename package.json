@@ -1,0 +1,16 @@
+{
+  "name": "is-sha256-zbase32",
+  "version": "0.0.0",
+  "description": "",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "repository": "kemitchell/is-sha256-zbase32.js",
+  "license": "MIT",
+  "devDependencies": {
+    "defence-cli": "^2.0.0",
+    "replace-require-self": "^1.1.1",
+    "zbase32": "0.0.2"
+  },
+  "scripts": {
+    "test": "defence README.md | replace-require-self | node"
+  }
+}
