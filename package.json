@@ -1,6 +1,6 @@
 {
   "name": "is-sha256-zbase32",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "check if a string is a valid z-base-32-encoded SHA-255 digest",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "repository": "kemitchell/is-sha256-zbase32.js",
